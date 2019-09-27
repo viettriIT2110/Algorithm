@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1567593526 source:d:\codeblocks\xeptranh\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<iomanip>
+	<windows.h>
+
